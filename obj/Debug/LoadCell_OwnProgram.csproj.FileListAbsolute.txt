@@ -1,0 +1,135 @@
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-386.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-amd64.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe.config
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.pdb
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\FUTEK_USB_DLL.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\SpinnakerNETGUI_v140.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\SpinnakerNET_v140.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\log4net.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\OpenTK.GLControl.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\SpinSwitchClassLibrary_v140.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\SpinVideoNET_v140.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\OpenTK.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\FUTEK_USB_DLL.xml
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.pdb
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.xml
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.xml
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.xml
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.xml
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\en-US\SpinnakerNETGUI_v140.resources.dll
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.MainForm.resources
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.Properties.Resources.resources
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.GenerateResource.cache
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CopyComplete
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.exe
+C:\Users\shiva\source\repos\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-386.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-amd64.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe.config
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.dll
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.pdb
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.xml
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.xml
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.xml
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.xml
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.AssemblyReference.cache
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.MainForm.resources
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.Properties.Resources.resources
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.GenerateResource.cache
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CoreCompileInputs.cache
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CopyComplete
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-386.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-amd64.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe.config
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\System.Buffers.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\System.Memory.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.dll
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.pdb
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.xml
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\System.Buffers.xml
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\System.Memory.xml
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.xml
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.AssemblyReference.cache
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.MainForm.resources
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.Properties.Resources.resources
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.GenerateResource.cache
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CoreCompileInputs.cache
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CopyComplete
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\04 C# Code\CarsonsVersion\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.AssemblyReference.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.MainForm.resources
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.Properties.Resources.resources
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.GenerateResource.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CoreCompileInputs.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-386.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-amd64.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe.config
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.pdb
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CopyComplete
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-386.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\zaber-motion-lib-windows-amd64.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe.config
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\LoadCell_OwnProgram.pdb
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.dll
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.pdb
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Google.Protobuf.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Buffers.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Memory.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\bin\Debug\Zaber.Motion.xml
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.AssemblyReference.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.MainForm.resources
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.Properties.Resources.resources
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.GenerateResource.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CoreCompileInputs.cache
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.csproj.CopyComplete
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.exe
+C:\Users\carso\Downloads\02032023 Backup 04 C# Code (1)\02032023 Backup 04 C# Code\LoadCell_OwnProgram\LoadCell_OwnProgram\obj\Debug\LoadCell_OwnProgram.pdb
