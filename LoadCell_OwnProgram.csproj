@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActuatorClass.cs" />
+    <Compile Include="Camera.cs" />
     <Compile Include="LoadCellClass.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
